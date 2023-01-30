@@ -1,0 +1,17 @@
+/* Write your CSS code here */
+.listOrder {
+  display: flex;
+  flex-direction: column;
+}
+.row-cont {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.heading-Name {
+  font-size: 25px;
+  font-family: 'Roboto';
+}
+.description {
+  font-size: 17px;
+}
